@@ -2,10 +2,11 @@
 This repository contains a collection of simple and interactive mini-games built using Python. It is designed for beginners to understand basic game logic, loops, conditionals, and user interaction.
 
 ## 🕹️ Games Included:
-❌⭕ Tic Tac Toe – Classic two-player strategy game
-🪨📄✂️ Rock Paper Scissors – Play against the computer
-🐍 Snake Game – Control the snake, eat food, and grow longer
-🗺️ Treasure Hunt – Find the hidden treasure using clues and logic
+
+#### ❌⭕ Tic Tac Toe – Classic two-player strategy game
+#### 🪨📄✂️ Rock Paper Scissors – Play against the computer
+#### 🐍 Snake Game – Control the snake, eat food, and grow longe
+#### 🗺️ Treasure Hunt – Find the hidden treasure using clues and logic
 ## 🚀 Features:
 Simple and beginner-friendly Python code
 Console-based interactive gameplay
